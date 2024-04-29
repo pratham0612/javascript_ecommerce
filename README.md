@@ -3,7 +3,7 @@
 Welcome to the Anime Merchandise eCommerce website repository! This project is a simple eCommerce website built with vanilla JavaScript, HTML, and CSS, designed to provide users with a platform to purchase anime-related merchandise.
 <br/>
 <br/>
-![Alt text]([/relative/path/to/img.jpg?raw=true](https://github.com/pratham0612/javascript_ecommerce/blob/main/Images/anime%20mania.png) "Website Screenshot")
+![WebSite ScreenShot](https://github.com/pratham0612/javascript_ecommerce/blob/41eefb4d7ed560b61b765c8ed675b8df376d46cb/Images/anime%20mania.png)
 
 
 ## Table of Contents
